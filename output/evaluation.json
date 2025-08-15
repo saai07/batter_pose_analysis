@@ -1,0 +1,23 @@
+{
+    "average_metrics": {
+        "elbow_angle": 118.57784479094025,
+        "spine_lean": 32.42197659565799,
+        "head_knee_dist": 0.03639751059167525,
+        "foot_dir": 66.2236095671535
+    },
+    "scores": {
+        "Footwork": 6.2447219134307,
+        "Head Position": 10,
+        "Swing Control": 4.644461197735062,
+        "Balance": 3.5156046808684023,
+        "Follow-through": 8
+    },
+    "feedback": {
+        "Footwork": "Improve foot positioning",
+        "Head Position": "Excellent head position",
+        "Swing Control": "Work on elbow position",
+        "Balance": "Maintain better balance",
+        "Follow-through": "Complete follow-through"
+    },
+    "frame_count": 136
+}
